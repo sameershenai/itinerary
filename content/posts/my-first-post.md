@@ -1,5 +1,5 @@
 ---
-title: Alaska Itinerary 7 Days
+title: Alaska Itinerary 10 Days
 date: 2019-01-12 04:44:25 +0000
 draft: true
 
