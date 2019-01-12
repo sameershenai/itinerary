@@ -6,11 +6,10 @@ draft: true
 ---
 '![](https://res.cloudinary.com/slickroute/image/upload/v1502157337/itineraries/alaska/alaska1.jpg)
 
-Alaska 10 Days
+# Alaska 10 Days
 
 ##### Mountains are calling ? Looking for Solitude ? Want to get away with your loved one ? Or just want to tick off Alaska from your bucket list .This power packed 10 day itinerary is just what you are need..
 
-  
 If you are going to be on road in Alaska it's highly recommended to get a copy of Milepost.It provides mile to mile log of Hotels, campgrounds, attractions.
 
 ![](http://res.cloudinary.com/slickroute/image/upload/v1502157337/itineraries/alaska/alaska3.jpg)
